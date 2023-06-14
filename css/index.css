@@ -1,0 +1,4 @@
+@import url(normalize.css);
+@import url(global.css);
+@import url(article/article.css);
+@import url(pagination/pagination.css);
